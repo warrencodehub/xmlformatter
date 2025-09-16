@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xmlformatter/static/css/main.f855e6bc.css",
+    "main.js": "/xmlformatter/static/js/main.d9f5eac1.js",
+    "static/js/453.0963d933.chunk.js": "/xmlformatter/static/js/453.0963d933.chunk.js",
+    "index.html": "/xmlformatter/index.html",
+    "main.f855e6bc.css.map": "/xmlformatter/static/css/main.f855e6bc.css.map",
+    "main.d9f5eac1.js.map": "/xmlformatter/static/js/main.d9f5eac1.js.map",
+    "453.0963d933.chunk.js.map": "/xmlformatter/static/js/453.0963d933.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d9f5eac1.js"
+  ]
+}
