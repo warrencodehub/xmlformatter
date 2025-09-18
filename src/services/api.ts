@@ -24,7 +24,7 @@ interface DecryptResponse {
 
 export const decryptXmlFile = async (encryptedData: DecryptRequest): Promise<string> => {
   try {
-    const response = await fetch('https://172.30.1.2:8081/api/EClaims/mock-decypted-response', {
+    const response = await fetch('http://172.30.1.2:8081/api/EClaims/mock-decypted-response', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
